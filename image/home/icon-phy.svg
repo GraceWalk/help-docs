@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>图标/计算/专属物理机/灰色</title>
+    <desc>Created with Sketch.</desc>
+    <g id="图标/计算/专属物理机/灰色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(1.000000, 1.000000)" fill="#101724" fill-rule="nonzero">
+            <g id="编组" transform="translate(0.000000, 3.000000)">
+                <path d="M5.5,0 C5.77614237,0 6,0.223857625 6,0.5 L6,14.5 C6,14.7761424 5.77614237,15 5.5,15 L0.5,15 C0.223857625,15 0,14.7761424 0,14.5 L0,0.5 C0,0.223857625 0.223857625,0 0.5,0 L5.5,0 Z M5,1 L1,1 L1,14 L5,14 L5,1 Z" id="矩形"></path>
+                <rect id="矩形" x="2" y="3" width="2" height="1" rx="0.25"></rect>
+                <rect id="矩形备份" x="2" y="5" width="2" height="1" rx="0.25"></rect>
+                <rect id="矩形" x="2" y="10" width="2" height="2" rx="0.25"></rect>
+            </g>
+            <g id="编组备份" transform="translate(12.000000, 3.000000)">
+                <path d="M5.5,0 C5.77614237,0 6,0.223857625 6,0.5 L6,14.5 C6,14.7761424 5.77614237,15 5.5,15 L0.5,15 C0.223857625,15 0,14.7761424 0,14.5 L0,0.5 C0,0.223857625 0.223857625,0 0.5,0 L5.5,0 Z M5,1 L1,1 L1,14 L5,14 L5,1 Z" id="矩形"></path>
+                <rect id="矩形" x="2" y="3" width="2" height="1" rx="0.25"></rect>
+                <rect id="矩形备份" x="2" y="5" width="2" height="1" rx="0.25"></rect>
+                <rect id="矩形" x="2" y="10" width="2" height="2" rx="0.25"></rect>
+            </g>
+            <g id="编组" transform="translate(5.000000, 0.000000)">
+                <path d="M7.5,0 C7.77614237,0 8,0.223857625 8,0.5 L8,17.5 C8,17.7761424 7.77614237,18 7.5,18 L6.25,18 C6.11192881,18 6,17.8880712 6,17.75 L6,17.25 C6,17.1119288 6.11192881,17 6.25,17 L7,17 L7,17 L7,1 L1,1 L1,17 L1.75,17 C1.88807119,17 2,17.1119288 2,17.25 L2,17.75 C2,17.8880712 1.88807119,18 1.75,18 L0.5,18 L0.5,18 C0.223857625,18 0,17.7761424 0,17.5 L0,0.5 C0,0.223857625 0.223857625,0 0.5,0 L7.5,0 Z" id="路径"></path>
+                <rect id="矩形" x="1" y="17" width="6" height="1"></rect>
+                <rect id="矩形" x="2" y="3" width="4" height="1" rx="0.25"></rect>
+                <rect id="矩形备份" x="2" y="5" width="4" height="1" rx="0.25"></rect>
+                <rect id="矩形备份-2" x="2" y="7" width="4" height="1" rx="0.25"></rect>
+                <rect id="矩形" x="3" y="13" width="2" height="2" rx="0.25"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

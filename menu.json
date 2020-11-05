@@ -1,0 +1,342 @@
+{
+  "menus": [
+    {
+      "category": "calculate",
+      "title": "计算",
+      "img": "/static/assets/docs/image/home/menu-calculate.png",
+      "list": [
+        {
+          "key": "dc2",
+          "path": "/static/assets/docs/DC2产品文档/readme.html",
+          "title": "云服务器",
+          "imgPath": "/static/assets/docs/image/home/icon-dc2.svg",
+          "experiencePath": "https://app.didiyun.com/#/dc2/add"
+        },
+        {
+          "key": "eis",
+          "path": "",
+          "title": "弹性推理服务",
+          "imgPath": "/static/assets/docs/image/home/icon-eis.svg"
+        },
+        {
+          "key": "docker",
+          "path": "",
+          "title": "容器镜像服务",
+          "imgPath": "/static/assets/docs/image/home/icon-docker.svg"
+        },
+        {
+          "key": "phy",
+          "path": "",
+          "title": "专属物理机",
+          "imgPath": "/static/assets/docs/image/home/icon-phy.svg"
+        }
+      ]
+    },
+    {
+      "category": "network",
+      "title": "网络",
+      "img": "/static/assets/docs/image/home/menu-network.png",
+      "list": [
+        {
+          "key": "vpc",
+          "path": "",
+          "title": "专有网络",
+          "imgPath": "/static/assets/docs/image/home/icon-vpc.svg"
+        },
+        {
+          "key": "slb",
+          "path": "",
+          "title": "负载均衡",
+          "imgPath": "/static/assets/docs/image/home/icon-slb.svg"
+        },
+        {
+          "key": "eip",
+          "path": "",
+          "title": "弹性公网",
+          "imgPath": "/static/assets/docs/image/home/icon-eip.svg"
+        }
+      ]
+    },
+    {
+      "category": "storage",
+      "title": "存储",
+      "img": "/static/assets/docs/image/home/menu-storage.png",
+      "list": [
+        {
+          "key": "ebs",
+          "path": "",
+          "title": "云盘",
+          "imgPath": "/static/assets/docs/image/home/icon-ebs.svg"
+        },
+        {
+          "key": "s3",
+          "path": "",
+          "title": "对象存储",
+          "imgPath": "/static/assets/docs/image/home/icon-s3.svg"
+        },
+        {
+          "key": "nas",
+          "path": "",
+          "title": "文件存储",
+          "imgPath": "/static/assets/docs/image/home/icon-nas.svg"
+        }
+      ]
+    },
+    {
+      "category": "safe",
+      "title": "安全",
+      "img": "/static/assets/docs/image/home/menu-safe.png",
+      "list": [
+        {
+          "key": "waf",
+          "path": "/static/assets/docs/Web应用防火墙产品文档/readme.html",
+          "title": "WEB应用防火墙",
+          "imgPath": "/static/assets/docs/image/home/icon-waf.svg",
+          "experiencePath": "https://app.didicloud.io/#/waf/new"
+        },
+        {
+          "key": "security",
+          "path": "/static/assets/docs/主机安全产品文档/readme.html",
+          "title": "主机安全",
+          "imgPath": "/static/assets/docs/image/home/icon-security.svg",
+          "experiencePath": "https://app.didicloud.io/#/agent/summary"
+        },
+        {
+          "key": "ddos",
+          "path": "/static/assets/docs/DDOS高防产品文档/readme.html",
+          "title": "DDos高防",
+          "imgPath": "/static/assets/docs/image/home/icon-ddos.svg",
+          "experiencePath": "https://app.didicloud.io/#/ddos/add"
+        }
+      ]
+    },
+    {
+      "category": "sql",
+      "title": "数据库",
+      "img": "/static/assets/docs/image/home/menu-sql.png",
+      "list": [
+        {
+          "key": "mysql",
+          "path": "/static/assets/docs/云数据库MySQL/readme.html",
+          "title": "云数据库MySQL",
+          "imgPath": "/static/assets/docs/image/home/icon-mysql.svg"
+        },
+        {
+          "key": "redis",
+          "path": "/static/assets/docs/云弹性缓存Redis/readme.html",
+          "title": "弹性缓存Redis",
+          "imgPath": "/static/assets/docs/image/home/icon-redis.svg"
+        }
+      ]
+    },
+    {
+      "category": "manage",
+      "title": "管理与监控",
+      "img": "/static/assets/docs/image/home/menu-manage.png",
+      "list": [
+        {
+          "key": "group",
+          "path": "",
+          "title": "团队管理",
+          "imgPath": "/static/assets/docs/image/home/icon-group.svg"
+        },
+        {
+          "key": "credit",
+          "path": "",
+          "title": "身份与访问控制",
+          "imgPath": "/static/assets/docs/image/home/icon-credit.svg"
+        },
+        {
+          "key": "bill",
+          "path": "",
+          "title": "账单管理",
+          "imgPath": "/static/assets/docs/image/home/icon-bill.svg"
+        },
+        {
+          "key": "monitor",
+          "path": "",
+          "title": "云监控",
+          "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
+        }
+      ]
+    },
+    {
+      "category": "domain",
+      "title": "域名与网站",
+      "img": "/static/assets/docs/image/home/menu-domain.png",
+      "list": [
+        {
+          "key": "icp",
+          "path": "",
+          "title": "网站备案",
+          "imgPath": "/static/assets/docs/image/home/icon-icp.svg"
+        },
+        {
+          "key": "ssl",
+          "path": "/static/assets/docs/SSL证书管理产品文档/readme.html",
+          "title": "SSL证书管理",
+          "imgPath": "/static/assets/docs/image/home/icon-ssl.svg"
+        }
+      ]
+    }
+  ],
+  "hotWords": [
+    {
+      "title": "云服务器",
+      "path": "/static/assets/docs/DC2产品文档/readme.html"
+    },
+    {
+      "title": "gpu服务器",
+      "path": ""
+    },
+    {
+      "title": "人脸识别",
+      "path": ""
+    },
+    {
+      "title": "地图定位",
+      "path": ""
+    },
+    {
+      "title": "弹性公网",
+      "path": ""
+    }
+  ],
+  "quickStartMenus": [
+    {
+      "category": "calculate",
+      "title": "计算",
+      "list": [
+        {
+          "key": "dc2",
+          "path": "/static/assets/docs/DC2产品文档/readme.html",
+          "imgPath": "/static/assets/docs/image/start/img-dc2.png",
+          "title": "云服务器(DC2)",
+          "subTitle": "云服务器",
+          "description": "了解如何快速购买、配置和登录Windows及Linux云服务器"
+        },
+        {
+          "key": "eis",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-eis.png",
+          "title": "弹性推理服务(EIS)",
+          "subTitle": "弹性推理服务",
+          "description": ""
+        },
+        {
+          "key": "docker",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-docker.png",
+          "title": "容器镜像服务",
+          "subTitle": "容器镜像服务",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "category": "network",
+      "title": "网络",
+      "list": [
+        {
+          "key": "vpc",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-vpc.png",
+          "title": "专有网络(VPC)",
+          "subTitle": "专有网络",
+          "description": "了解如何快速创建VPC，设置子网"
+        },
+        {
+          "key": "slb",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-slb.png",
+          "title": "负载均衡",
+          "subTitle": "负载均衡",
+          "description": "了解如何快速购买负载均衡，配置负载均衡，实现服务负载均衡"
+        },
+        {
+          "key": "eip",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-eip.png",
+          "title": "弹性公网(EIP)",
+          "subTitle": "弹性公网",
+          "description": "了解如何快速购买IP，绑定IP以及IP带宽修改"
+        }
+      ]
+    },
+    {
+      "category": "storage",
+      "title": "存储",
+      "list": [
+        {
+          "key": "s3",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-s3.png",
+          "title": "对象存储(S3)",
+          "subTitle": "对象存储",
+          "description": ""
+        },
+        {
+          "key": "nas",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-nas.png",
+          "title": "文件存储(NAS)",
+          "subTitle": "文件存储",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "category": "sql",
+      "title": "数据库",
+      "list": [
+        {
+          "key": "mysql",
+          "path": "/static/assets/docs/云数据库MySQL/readme.html",
+          "imgPath": "/static/assets/docs/image/start/img-mysql.png",
+          "title": "云数据库MySQL",
+          "subTitle": "云数据库MySQL",
+          "description": "了解如何访问数据库，使用云数据库"
+        },
+        {
+          "key": "redis",
+          "path": "/static/assets/docs/云弹性缓存Redis/readme.html",
+          "imgPath": "/static/assets/docs/image/start/img-redis.png",
+          "title": "弹性缓存Redis",
+          "subTitle": "弹性缓存Redis",
+          "description": "了解如何创建弹性缓存redis，使用弹性缓存"
+        }
+      ]
+    },
+    {
+      "category": "other",
+      "title": "其他",
+      "list": [
+        {
+          "key": "credit",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-credit.png",
+          "title": "身份访问与控制",
+          "subTitle": "身份访问与控制",
+          "description": "了解如何快速设计子用户，并为子用户授权，实现访问控制"
+        },
+        {
+          "key": "monitor",
+          "path": "",
+          "imgPath": "/static/assets/docs/image/start/img-monitor.png",
+          "title": "云监控",
+          "subTitle": "云监控",
+          "description": "了解如何设置告警策略，告警在盘及告警看图"
+        }
+      ]
+    }
+  ],
+  "searchAdsList": {
+    "adsImgList": ["dc2", "gpu", "docker", "phy", "vpc", "slb", "eip", "ebs", "s3", "nas", "waf", "security", "ddos", "mysql", "redis", "ssl"],
+    "adsKeysList": [
+      {"key": "dc2|云服务器", "ads": "1,7,11"}, {"key": "gpu", "ads": "0,2,3"}, {"key": "docker|容器镜像服务", "ads": "0,1,3"}, {"key": "bms|裸金属物理机", "ads": "0,1,2"},
+      {"key": "vpc|网络", "ads": "4,5,6"}, {"key": "slb|负载均衡", "ads": "0,1,6"}, {"key": "eip|弹性公网IP", "ads": "0,1,4"}, {"key": "ebs|云盘", "ads": "0,1,6"},
+      {"key": "s3|对象存储", "ads": "7,9,13"}, {"key": "nas|文件存储", "ads": "8,9,11"}, {"key": "mysql|数据库", "ads": "0,7,14"}, {"key": "redis|弹性缓存", "ads": "0,7,13"},
+      {"key": "waf|WEB应用防火墙", "ads": "0,6,11"}, {"key": "security|主机安全", "ads": "0,1,12"}, {"key": "ddos", "ads": "0,6,10"}, {"key": "ssl", "ads": "0,6,7"}
+      ]
+  }
+}
