@@ -9,8 +9,7 @@
           "key": "dc2",
           "path": "/static/assets/docs/DC2产品文档/readme.html",
           "title": "云服务器",
-          "imgPath": "/static/assets/docs/image/home/icon-dc2.svg",
-          "experiencePath": "https://app.didiyun.com/#/dc2/add"
+          "imgPath": "/static/assets/docs/image/home/icon-dc2.svg"
         },
         {
           "key": "eis",
@@ -19,22 +18,10 @@
           "imgPath": "/static/assets/docs/image/home/icon-eis.svg"
         },
         {
-          "key": "gpu",
-          "path": "",
-          "title": "GPU云服务器",
-          "imgPath": "/static/assets/docs/image/home/icon-gpu.svg"
-        },
-        {
           "key": "docker",
           "path": "",
           "title": "容器镜像服务",
           "imgPath": "/static/assets/docs/image/home/icon-docker.svg"
-        },
-        {
-          "key": "phy",
-          "path": "",
-          "title": "专属物理机",
-          "imgPath": "/static/assets/docs/image/home/icon-phy.svg"
         }
       ]
     },
@@ -97,22 +84,19 @@
           "key": "waf",
           "path": "/static/assets/docs/Web应用防火墙产品文档/readme.html",
           "title": "WEB应用防火墙",
-          "imgPath": "/static/assets/docs/image/home/icon-waf.svg",
-          "experiencePath": "https://app.didicloud.io/#/waf/new"
+          "imgPath": "/static/assets/docs/image/home/icon-waf.svg"
         },
         {
           "key": "security",
           "path": "/static/assets/docs/主机安全产品文档/readme.html",
           "title": "主机安全",
-          "imgPath": "/static/assets/docs/image/home/icon-security.svg",
-          "experiencePath": "https://app.didicloud.io/#/agent/summary"
+          "imgPath": "/static/assets/docs/image/home/icon-security.svg"
         },
         {
           "key": "ddos",
           "path": "/static/assets/docs/DDOS高防产品文档/readme.html",
           "title": "DDos高防",
-          "imgPath": "/static/assets/docs/image/home/icon-ddos.svg",
-          "experiencePath": "https://app.didicloud.io/#/ddos/add"
+          "imgPath": "/static/assets/docs/image/home/icon-ddos.svg"
         }
       ]
     },
@@ -336,6 +320,24 @@
       ]
     }
   ],
+  "switchPath": {
+    "dc2": "https://app.didiyun.com/#/dc2/add",
+    "gpu": "https://app.didiyun.com/#/dc2/add?srvType=ebs.gpu.p4",
+    "docker": "https://app.didiyun.com/#/docker/repositories/add",
+    "phy": "https://www.didiyun.com/production/physical.html",
+    "vpc": "https://app.didiyun.com/#/vpc/add",
+    "slb": "https://app.didiyun.com/#/slb/add",
+    "eip": "https://app.didiyun.com/#/eip/add",
+    "ebs": "https://app.didiyun.com/#/ebs/add",
+    "s3": "https://app.didiyun.com/#/s3/add",
+    "nas": "https://app.didiyun.com/#/nas/add",
+    "waf": "https://app.didicloud.io/#/waf/new",
+    "security": "https://app.didicloud.io/#/agent/summary",
+    "ddos": "https://app.didicloud.io/#/ddos/add",
+    "mysql": "https://app.didiyun.com/#/rds/add",
+    "redis": "https://app.didiyun.com/#/cache/add",
+    "ssl": "https://app.didiyun.com/#/certificate/add"
+  },
   "searchAdsList": {
     "adsImgList": ["dc2", "gpu", "docker", "phy", "vpc", "slb", "eip", "ebs", "s3", "nas", "waf", "security", "ddos", "mysql", "redis", "ssl"],
     "adsKeysList": [
