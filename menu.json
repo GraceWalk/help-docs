@@ -19,6 +19,12 @@
           "imgPath": "/static/assets/docs/image/home/icon-eis.svg"
         },
         {
+          "key": "gpu",
+          "path": "",
+          "title": "GPU云服务器",
+          "imgPath": "/static/assets/docs/image/home/icon-gpu.svg"
+        },
+        {
           "key": "docker",
           "path": "",
           "title": "容器镜像服务",
@@ -39,19 +45,19 @@
       "list": [
         {
           "key": "vpc",
-          "path": "",
+          "path": "/static/assets/docs/VPC产品文档/readme.html",
           "title": "专有网络",
           "imgPath": "/static/assets/docs/image/home/icon-vpc.svg"
         },
         {
           "key": "slb",
-          "path": "",
+          "path": "/static/assets/docs/SLB产品文档/readme.html",
           "title": "负载均衡",
           "imgPath": "/static/assets/docs/image/home/icon-slb.svg"
         },
         {
           "key": "eip",
-          "path": "",
+          "path": "/static/assets/docs/EIP产品文档/readme.html",
           "title": "弹性公网",
           "imgPath": "/static/assets/docs/image/home/icon-eip.svg"
         }
@@ -137,24 +143,24 @@
         {
           "key": "group",
           "path": "",
-          "title": "团队管理",
+          "title": "推广返利",
           "imgPath": "/static/assets/docs/image/home/icon-group.svg"
         },
         {
           "key": "credit",
-          "path": "",
+          "path": "/static/assets/docs/身份与访问控制产品文档/readme.html",
           "title": "身份与访问控制",
           "imgPath": "/static/assets/docs/image/home/icon-credit.svg"
         },
         {
           "key": "bill",
-          "path": "",
-          "title": "账单管理",
+          "path": "/static/assets/docs/费用中心产品文档/readme.html",
+          "title": "费用中心",
           "imgPath": "/static/assets/docs/image/home/icon-bill.svg"
         },
         {
           "key": "monitor",
-          "path": "",
+          "path": "/static/assets/docs/云监控产品文档/readme.html",
           "title": "云监控",
           "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
         }
