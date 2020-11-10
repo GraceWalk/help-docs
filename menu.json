@@ -333,7 +333,7 @@
     "phy": {"title": "专属物理机", "path": "https://www.didiyun.com/production/physical.html"},
     "vpc": {"title": "专有网络", "path": "https://app.didiyun.com/#/vpc/add"},
     "slb": {"title": "负载均衡", "path": "https://app.didiyun.com/#/slb/add"},
-    "eip": {"title": "弹性推理IP", "path": "https://app.didiyun.com/#/eip/add"},
+    "eip": {"title": "弹性公网IP", "path": "https://app.didiyun.com/#/eip/add"},
     "ebs": {"title": "云盘", "path": "https://app.didiyun.com/#/ebs/add"},
     "s3": {"title": "对象存储", "path": "https://app.didiyun.com/#/s3/add"},
     "nas": {"title": "文件存储", "path": "https://app.didiyun.com/#/nas/add"},
