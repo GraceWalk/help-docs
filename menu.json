@@ -121,12 +121,12 @@
     },
     {
       "category": "manage",
-      "title": "管理与监控",
+      "title": "管理与支持",
       "img": "/static/assets/docs/image/home/menu-manage.png",
       "list": [
         {
           "key": "group",
-          "path": "",
+          "path": "/static/assets/docs/推广返利/01-滴滴云AI大师/什么是AI大师码.html",
           "title": "推广返利",
           "imgPath": "/static/assets/docs/image/home/icon-group.svg"
         },
@@ -146,6 +146,18 @@
           "key": "monitor",
           "path": "/static/assets/docs/云监控产品文档/readme.html",
           "title": "云监控",
+          "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
+        },
+        {
+          "key": "monitor",
+          "path": "/static/assets/docs/资质认证/网络安全等级保护简介.html",
+          "title": "资质认证",
+          "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
+        },
+        {
+          "key": "monitor",
+          "path": "/static/assets/docs/售后服务说明/滴滴云售后服务介绍.html",
+          "title": "售后服务说明",
           "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
         }
       ]

@@ -432,3 +432,30 @@
       * [子网下查看资源（DC2、SLB）](/static/assets/docs/VPC产品文档/04-操作指南/子网下资源管理/子网下查看资源（DC2、SLB）.md)
       * [子网下创建资源（DC2、SLB）](/static/assets/docs/VPC产品文档/04-操作指南/子网下资源管理/子网下创建资源（DC2、SLB）.md)
 * [常见问题](/static/assets/docs/VPC产品产品文档/05-常见问题/常见问题.md)
+
+
+* [推广返利产品文档](/static/assets/docs/推广返利/readme.md)
+* [滴滴云AI大师](/static/assets/docs/推广返利/01-滴滴云AI大师/滴滴云AI大师目录.md)
+    * [什么是AI大师码](/static/assets/docs/推广返利/01-滴滴云AI大师/什么是AI大师码.md)
+    * [活动规则](/static/assets/docs/推广返利/01-滴滴云AI大师/活动规则.md)
+    * [推广指引](/static/assets/docs/推广返利/02-滴滴云使者/活推广指引.md)
+* [滴滴云使者](/static/assets/docs/推广返利/02-滴滴云使者/滴滴云使者目录.md)
+    * [云使者简介](/static/assets/docs/推广返利/02-滴滴云使者/云使者简介.md)
+    * [关于申请](/static/assets/docs/推广返利/02-滴滴云使者/关于申请.md)
+    * [关于推广](/static/assets/docs/推广返利/02-滴滴云使者/关于推广.md)
+    * [关于返拥](/static/assets/docs/推广返利/02-滴滴云使者/关于返拥.md)
+    * [企业线索返利规则](/static/assets/docs/推广返利/02-滴滴云使者/企业线索返利规则.md)
+
+
+* [资质认证产品文档](/static/assets/docs/资质认证/readme.md)
+* [网络安全等级保护简介](/static/assets/docs/资质认证/网络安全等级保护简介.md)
+* [信息技术服务管理体系标准认证简介](/static/assets/docs/资质认证/信息技术服务管理体系标准认证简介.md)
+* [可信云服务认证简介](/static/assets/docs/资质认证/可信云服务认证简介.md)
+* [云安全国际认证简介](/static/assets/docs/资质认证/云安全国际认证简介.md)
+* [信息安全管理体系认证简介](/static/assets/docs/资质认证/信息安全管理体系认证简介.md)
+* [公有云个人信息保护国际认证简介](/static/assets/docs/资质认证/公有云个人信息保护国际认证简介.md)
+
+
+* [售后服务产品文档](/static/assets/docs/售后服务/readme.md)
+* [滴滴云售后服务介绍](/static/assets/docs/售后服务说明/滴滴云售后服务介绍.md)
+* [第三方软件支持说明](/static/assets/docs/售后服务说明/第三方软件支持说明.md)
