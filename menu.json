@@ -45,7 +45,7 @@
         {
           "key": "eip",
           "path": "/static/assets/docs/EIP产品文档/readme.html",
-          "title": "弹性公网",
+          "title": "弹性公网IP",
           "imgPath": "/static/assets/docs/image/home/icon-eip.svg"
         }
       ]
