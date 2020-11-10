@@ -97,6 +97,12 @@
           "path": "/static/assets/docs/DDOS高防产品文档/readme.html",
           "title": "DDos高防",
           "imgPath": "/static/assets/docs/image/home/icon-ddos.svg"
+        },
+        {
+          "key": "ssl",
+          "path": "/static/assets/docs/SSL证书管理产品文档/readme.html",
+          "title": "SSL证书管理",
+          "imgPath": "/static/assets/docs/image/home/icon-ssl.svg"
         }
       ]
     },
@@ -132,19 +138,19 @@
         },
         {
           "key": "credit",
-          "path": "/static/assets/docs/身份与访问控制产品文档/readme.html",
+          "path": "/static/assets/docs/身份与访问控制产品文档/01-产品简介/什么是身份与访问控制（IAM）.html",
           "title": "身份与访问控制",
           "imgPath": "/static/assets/docs/image/home/icon-credit.svg"
         },
         {
           "key": "bill",
-          "path": "/static/assets/docs/费用中心产品文档/readme.html",
+          "path": "/static/assets/docs/费用中心产品文档/01-费用中心简介/费用中心简介.html",
           "title": "费用中心",
           "imgPath": "/static/assets/docs/image/home/icon-bill.svg"
         },
         {
           "key": "monitor",
-          "path": "/static/assets/docs/云监控产品文档/readme.html",
+          "path": "/static/assets/docs/云监控产品文档/01-产品简介/什么是云监控.html",
           "title": "云监控",
           "imgPath": "/static/assets/docs/image/home/icon-monitor.svg"
         },
@@ -172,12 +178,6 @@
           "path": "",
           "title": "网站备案",
           "imgPath": "/static/assets/docs/image/home/icon-icp.svg"
-        },
-        {
-          "key": "ssl",
-          "path": "/static/assets/docs/SSL证书管理产品文档/readme.html",
-          "title": "SSL证书管理",
-          "imgPath": "/static/assets/docs/image/home/icon-ssl.svg"
         }
       ]
     }
@@ -333,22 +333,22 @@
     }
   ],
   "switchPath": {
-    "dc2": "https://app.didiyun.com/#/dc2/add",
-    "gpu": "https://app.didiyun.com/#/dc2/add?srvType=ebs.gpu.p4",
-    "docker": "https://app.didiyun.com/#/docker/repositories/add",
-    "phy": "https://www.didiyun.com/production/physical.html",
-    "vpc": "https://app.didiyun.com/#/vpc/add",
-    "slb": "https://app.didiyun.com/#/slb/add",
-    "eip": "https://app.didiyun.com/#/eip/add",
-    "ebs": "https://app.didiyun.com/#/ebs/add",
-    "s3": "https://app.didiyun.com/#/s3/add",
-    "nas": "https://app.didiyun.com/#/nas/add",
-    "waf": "https://app.didicloud.io/#/waf/new",
-    "security": "https://app.didicloud.io/#/agent/summary",
-    "ddos": "https://app.didicloud.io/#/ddos/add",
-    "mysql": "https://app.didiyun.com/#/rds/add",
-    "redis": "https://app.didiyun.com/#/cache/add",
-    "ssl": "https://app.didiyun.com/#/certificate/add"
+    "dc2": {"title": "云服务器", "path": "https://app.didiyun.com/#/dc2/add"},
+    "gpu": {"title": "GPU服务器", "path": "https://app.didiyun.com/#/dc2/add?srvType=ebs.gpu.p4"},
+    "docker": {"title": "容器镜像服务", "path": "https://app.didiyun.com/#/docker/repositories/add"},
+    "phy": {"title": "专属物理机", "path": "https://www.didiyun.com/production/physical.html"},
+    "vpc": {"title": "专有网络", "path": "https://app.didiyun.com/#/vpc/add"},
+    "slb": {"title": "负载均衡", "path": "https://app.didiyun.com/#/slb/add"},
+    "eip": {"title": "弹性推理IP", "path": "https://app.didiyun.com/#/eip/add"},
+    "ebs": {"title": "云盘", "path": "https://app.didiyun.com/#/ebs/add"},
+    "s3": {"title": "对象存储", "path": "https://app.didiyun.com/#/s3/add"},
+    "nas": {"title": "文件存储", "path": "https://app.didiyun.com/#/nas/add"},
+    "waf": {"title": "WEB应用防火墙", "path": "https://app.didicloud.io/#/waf/new"},
+    "security": {"title": "主机安全", "path": "https://app.didicloud.io/#/agent/summary"},
+    "ddos": {"title": "DDos高防", "path": "https://app.didicloud.io/#/ddos/add"},
+    "mysql": {"title": "云数据库MySQL", "path": "https://app.didiyun.com/#/rds/add"},
+    "redis": {"title": "弹性缓存Redis", "path": "https://app.didiyun.com/#/cache/add"},
+    "ssl": {"title": "SSL证书管理", "path": "https://app.didiyun.com/#/certificate/add"}
   },
   "searchAdsList": {
     "adsImgList": ["dc2", "gpu", "docker", "phy", "vpc", "slb", "eip", "ebs", "s3", "nas", "waf", "security", "ddos", "mysql", "redis", "ssl"],
