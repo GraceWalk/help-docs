@@ -57,13 +57,13 @@
       "list": [
         {
           "key": "s3",
-          "path": "https://help.didiyun.com/hc/kb/section/1042689/",
+          "path": "/hc/kb/section/1042689/",
           "title": "对象存储",
           "imgPath": "/static/assets/docs/image/home/icon-s3.svg"
         },
         {
           "key": "nas",
-          "path": "https://help.didiyun.com/hc/kb/section/1101009/",
+          "path": "/hc/kb/section/1101009/",
           "title": "文件存储",
           "imgPath": "/static/assets/docs/image/home/icon-nas.svg"
         }
