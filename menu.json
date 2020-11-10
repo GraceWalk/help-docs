@@ -56,20 +56,14 @@
       "img": "/static/assets/docs/image/home/menu-storage.png",
       "list": [
         {
-          "key": "ebs",
-          "path": "",
-          "title": "云盘",
-          "imgPath": "/static/assets/docs/image/home/icon-ebs.svg"
-        },
-        {
           "key": "s3",
-          "path": "",
+          "path": "https://help.didiyun.com/hc/kb/section/1042689/",
           "title": "对象存储",
           "imgPath": "/static/assets/docs/image/home/icon-s3.svg"
         },
         {
           "key": "nas",
-          "path": "",
+          "path": "https://help.didiyun.com/hc/kb/section/1101009/",
           "title": "文件存储",
           "imgPath": "/static/assets/docs/image/home/icon-nas.svg"
         }
