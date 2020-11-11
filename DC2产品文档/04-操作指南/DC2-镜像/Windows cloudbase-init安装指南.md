@@ -1,3 +1,4 @@
+
 ##安装步骤
 
 *  在目标镜像中下载Cloudbase-init。目前Cloudbase-init 稳定版本为 Cloudbase-init 0.9.11，[下载地址](https://cloudbase.it/downloads／CloudbaseInitSetup_0_9_11_x64.msi).
@@ -22,6 +23,7 @@
 
  2. 将 Cloudbase-init.conf 配置文件替换为以下内容：
 
+```
 [DEFAULT]
 
 username=dc2_user
@@ -70,4 +72,5 @@ allow_reboot=false
 first_logon_behaviour=no
 
 check_latest_version=false
+```
 
